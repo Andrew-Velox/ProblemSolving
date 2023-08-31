@@ -1,4 +1,19 @@
 {
+  "CF221364481": {
+    "contest_id": 409,
+    "language": "Mysterious Language",
+    "path": "codeforces\\409\\B.txt",
+    "problem_index": "B",
+    "problem_name": "Mysterious Language",
+    "problem_url": "https://codeforces.com/contest/409/problem/B",
+    "submission_id": "CF221364481",
+    "submission_url": "https://codeforces.com/contest/409/submission/221364481",
+    "tags": [
+      "*special problem",
+      "*1700"
+    ],
+    "timestamp": "Aug/31/2023 23:27"
+  },
   "CF221697592": {
     "contest_id": 734,
     "language": "GNU C++20 (64)",
