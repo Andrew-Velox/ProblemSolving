@@ -3,11 +3,11 @@
 using namespace std;
 
 int main() {
-    ll int t;
+    int t;
     cin >> t;
     
     while(t--){
-        ll int a,b,c;
+        int a,b,c;
         cin >> a >> b >> c;
         
         if(a<b){
@@ -18,6 +18,7 @@ int main() {
                 count++;
                 if(a>b){
                     a=b;
+                   
                 }
             }
             
@@ -33,6 +34,7 @@ int main() {
                 count++;
                 if(b>a){
                     a=b;
+                   
                 }
             }
             
