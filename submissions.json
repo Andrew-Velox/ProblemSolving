@@ -1,4 +1,20 @@
 {
+  "CF222713580": {
+    "contest_id": 1517,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1517\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Sum of 2050",
+    "problem_url": "https://codeforces.com/contest/1517/problem/A",
+    "submission_id": "CF222713580",
+    "submission_url": "https://codeforces.com/contest/1517/submission/222713580",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/10/2023 18:12"
+  },
   "CF222754902": {
     "contest_id": 344,
     "language": "GNU C++20 (64)",
