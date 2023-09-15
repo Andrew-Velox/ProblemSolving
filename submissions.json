@@ -1,4 +1,20 @@
 {
+  "CF223536524": {
+    "contest_id": 1849,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1849\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Morning Sandwich",
+    "problem_url": "https://codeforces.com/contest/1849/problem/A",
+    "submission_id": "CF223536524",
+    "submission_url": "https://codeforces.com/contest/1849/submission/223536524",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/16/2023 02:41"
+  },
   "CF223594449": {
     "contest_id": 1850,
     "language": "GNU C++20 (64)",
