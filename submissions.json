@@ -1,4 +1,21 @@
 {
+  "CF224467997": {
+    "contest_id": 1873,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1873\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Good Kid",
+    "problem_url": "https://codeforces.com/contest/1873/problem/B",
+    "submission_id": "CF224467997",
+    "submission_url": "https://codeforces.com/contest/1873/submission/224467997",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/21/2023 22:22"
+  },
   "CF224597701": {
     "contest_id": 1873,
     "language": "GNU C++20 (64)",
