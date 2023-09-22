@@ -1,4 +1,20 @@
 {
+  "CF224659750": {
+    "contest_id": 1846,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1846\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Rudolph and Cut the Rope ",
+    "problem_url": "https://codeforces.com/contest/1846/problem/A",
+    "submission_id": "CF224659750",
+    "submission_url": "https://codeforces.com/contest/1846/submission/224659750",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/23/2023 00:44"
+  },
   "CF224660282": {
     "contest_id": 1843,
     "language": "GNU C++20 (64)",
