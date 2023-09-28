@@ -8,11 +8,20 @@ int main(){
     while(t--){
         ll int len; cin >> len;
         string s; cin >> s;
+        
 
         if(len!=5) cout << "NO" << endl;
         else{
+            
+            string xx="Timru";
             sort(s.begin(), s.end());
-            if(s=="Timru") cout << "YES" << endl;
+            int cnt=0;
+            for(int x=0; x<len; x++){
+                if(s[x]==xx[x]) cnt++;
+                //cout << xx[x] << " " << s[x] << endl;
+            }
+        
+            if(cnt==5) cout << "YES" << endl;
             else cout << "NO" << endl;
         }
     }
