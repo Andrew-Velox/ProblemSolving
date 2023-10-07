@@ -1,4 +1,19 @@
 {
+  "CF226983891": {
+    "contest_id": 339,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\339\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Xenia and Ringroad",
+    "problem_url": "https://codeforces.com/contest/339/problem/B",
+    "submission_id": "CF226983891",
+    "submission_url": "https://codeforces.com/contest/339/submission/226983891",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Oct/07/2023 15:13"
+  },
   "CF227100979": {
     "contest_id": 47,
     "language": "GNU C++20 (64)",
