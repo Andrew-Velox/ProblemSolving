@@ -1,4 +1,20 @@
 {
+  "CF232430796": {
+    "contest_id": 131,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\131\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "cAPS lOCK",
+    "problem_url": "https://codeforces.com/contest/131/problem/A",
+    "submission_id": "CF232430796",
+    "submission_url": "https://codeforces.com/contest/131/submission/232430796",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Nov/12/2023 01:59"
+  },
   "CF232709224": {
     "contest_id": 58,
     "language": "GNU C++20 (64)",
