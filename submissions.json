@@ -1,4 +1,19 @@
 {
+  "CF234599922": {
+    "contest_id": 124,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\124\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "The number of positions",
+    "problem_url": "https://codeforces.com/contest/124/problem/A",
+    "submission_id": "CF234599922",
+    "submission_url": "https://codeforces.com/contest/124/submission/234599922",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Nov/27/2023 20:30"
+  },
   "CF234880782": {
     "contest_id": 43,
     "language": "GNU C++20 (64)",
