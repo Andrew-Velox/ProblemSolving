@@ -1,4 +1,20 @@
 {
+  "CF238062643": {
+    "contest_id": 1914,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1914\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Problemsolving Log",
+    "problem_url": "https://codeforces.com/contest/1914/problem/A",
+    "submission_id": "CF238062643",
+    "submission_url": "https://codeforces.com/contest/1914/submission/238062643",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Dec/20/2023 00:17"
+  },
   "CF238214844": {
     "contest_id": 1626,
     "language": "GNU C++20 (64)",
