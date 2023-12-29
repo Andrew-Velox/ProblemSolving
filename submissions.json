@@ -1,4 +1,21 @@
 {
+  "CF239467825": {
+    "contest_id": 1915,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1915\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Unnatural Language Processing",
+    "problem_url": "https://codeforces.com/contest/1915/problem/D",
+    "submission_id": "CF239467825",
+    "submission_url": "https://codeforces.com/contest/1915/submission/239467825",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Dec/29/2023 14:49"
+  },
   "CF239671905": {
     "contest_id": 1916,
     "language": "GNU C++20 (64)",
