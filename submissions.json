@@ -1,4 +1,20 @@
 {
+  "CF246403999": {
+    "contest_id": 1008,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1008\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Romaji",
+    "problem_url": "https://codeforces.com/contest/1008/problem/A",
+    "submission_id": "CF246403999",
+    "submission_url": "https://codeforces.com/contest/1008/submission/246403999",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Feb/15/2024 01:50"
+  },
   "CF246627247": {
     "contest_id": 25,
     "language": "GNU C++20 (64)",
