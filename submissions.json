@@ -1,0 +1,19 @@
+{
+  "CF246627247": {
+    "contest_id": 25,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\25\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Roads not only in Berland",
+    "problem_url": "https://codeforces.com/contest/25/problem/D",
+    "submission_id": "CF246627247",
+    "submission_url": "https://codeforces.com/contest/25/submission/246627247",
+    "tags": [
+      "dsu",
+      "graphs",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Feb/16/2024 12:51"
+  }
+}

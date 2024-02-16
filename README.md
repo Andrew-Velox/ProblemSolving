@@ -4,11 +4,12 @@ Submissions
 
 ## Introduction
 
-A repository to keep track of problem solving practice, containing solutions from platforms:
-{profile_placeholder}
+A repository to keep track of problem solving practise, containing solutions from platforms:
+* Codeforces
+> Codeforces is a website which hosts competitive programming contests: [http://codeforces.com](http://codeforces.com)
 
 ## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-{submission_placeholder}
+1 | [D - Roads not only in Berland](https://codeforces.com/contest/25/problem/D) | [GNU C++20 (64)](./codeforces/25/D.cpp) | `dsu` `graphs` `trees` `*1900` | Feb/16/2024 12:51 | 
