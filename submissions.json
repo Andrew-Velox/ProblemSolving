@@ -1647,5 +1647,20 @@
       "implementation"
     ],
     "timestamp": "Feb/19/2024 20:15"
+  },
+  "CF247372757": {
+    "contest_id": 1926,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1926\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Vlad and a Sum of Sum of Digits",
+    "problem_url": "https://codeforces.com/contest/1926/problem/C",
+    "submission_id": "CF247372757",
+    "submission_url": "https://codeforces.com/contest/1926/submission/247372757",
+    "tags": [
+      "dp",
+      "implementation"
+    ],
+    "timestamp": "Feb/19/2024 23:21"
   }
 }
