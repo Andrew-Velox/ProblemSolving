@@ -12,6 +12,7 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+101 | [A - Thorns and Coins](https://codeforces.com/contest/1932/problem/A) | [GNU C++20 (64)](./codeforces/1932/A.cpp) | `dp` `greedy` `implementation` | Feb/19/2024 20:15 | 
 100 | [A - Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | [GNU C++20 (64)](./codeforces/1469/A.cpp) | `constructive algorithms` `greedy` `*1000` | Feb/19/2024 20:02 | 
 99 | [D - Roads not only in Berland](https://codeforces.com/contest/25/problem/D) | [GNU C++20 (64)](./codeforces/25/D.cpp) | `dsu` `graphs` `trees` `*1900` | Feb/16/2024 12:51 | 
 98 | [A - Romaji](https://codeforces.com/contest/1008/problem/A) | [GNU C++20 (64)](./codeforces/1008/A.cpp) | `implementation` `strings` `*900` | Feb/15/2024 01:50 | 
