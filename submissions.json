@@ -1648,6 +1648,20 @@
     ],
     "timestamp": "Feb/19/2024 20:15"
   },
+  "CF247297882": {
+    "contest_id": 1926,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1926\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Vlad and Shapes",
+    "problem_url": "https://codeforces.com/contest/1926/problem/B",
+    "submission_id": "CF247297882",
+    "submission_url": "https://codeforces.com/contest/1926/submission/247297882",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Feb/19/2024 21:22"
+  },
   "CF247372757": {
     "contest_id": 1926,
     "language": "GNU C++20 (64)",
