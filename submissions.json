@@ -1728,5 +1728,20 @@
       "*1500"
     ],
     "timestamp": "Feb/21/2024 21:26"
+  },
+  "CF248001879": {
+    "contest_id": 456,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\456\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Laptops",
+    "problem_url": "https://codeforces.com/contest/456/problem/A",
+    "submission_id": "CF248001879",
+    "submission_url": "https://codeforces.com/contest/456/submission/248001879",
+    "tags": [
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Feb/24/2024 00:47"
   }
 }
