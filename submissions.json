@@ -1744,6 +1744,22 @@
     ],
     "timestamp": "Feb/24/2024 00:47"
   },
+  "CF248566893": {
+    "contest_id": 1933,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1933\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Turtle Math: Fast Three Task",
+    "problem_url": "https://codeforces.com/contest/1933/problem/B",
+    "submission_id": "CF248566893",
+    "submission_url": "https://codeforces.com/contest/1933/submission/248566893",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Feb/27/2024 21:26"
+  },
   "CF248572130": {
     "contest_id": 1933,
     "language": "GNU C++20 (64)",
