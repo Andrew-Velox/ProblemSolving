@@ -12,13 +12,14 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-117 | [B - Coloring Rectangles](https://codeforces.com/contest/1589/problem/B) | [C++17 (GCC 7-32)](./codeforces/1589/B.cpp) | `greedy` `*1000` | Mar/17/2024 22:15 | 
-116 | [A - Era](https://codeforces.com/contest/1604/problem/A) | [C++17 (GCC 7-32)](./codeforces/1604/A.cpp) | `greedy` `*800` | Mar/16/2024 18:33 | 
-115 | [C - Traffic Light](https://codeforces.com/contest/1744/problem/C) | [C++17 (GCC 7-32)](./codeforces/1744/C.cpp) | `binary search` `implementation` `two pointers` `*1000` | Mar/16/2024 13:54 | 
-114 | [A - Forgotten Episode](https://codeforces.com/contest/440/problem/A) | [C++17 (GCC 7-32)](./codeforces/440/A.cpp) | `implementation` `*800` | Mar/16/2024 10:37 | 
-113 | [A - Wet Shark and Odd and Even](https://codeforces.com/contest/621/problem/A) | [C++17 (GCC 7-32)](./codeforces/621/A.cpp) | `implementation` `*900` | Mar/16/2024 10:27 | 
-112 | [C - Word Game](https://codeforces.com/contest/1722/problem/C) | [C++17 (GCC 7-32)](./codeforces/1722/C.cpp) | `data structures` `implementation` `*800` | Mar/16/2024 09:28 | 
-111 | [A - Ebony and Ivory](https://codeforces.com/contest/633/problem/A) | [C++17 (GCC 7-32)](./codeforces/633/A.cpp) | `brute force` `math` `number theory` `*1100` | Mar/16/2024 09:18 | 
+118 | [B - Coloring Rectangles](https://codeforces.com/contest/1589/problem/B) | [C++17 (GCC 7-32)](./codeforces/1589/B.cpp) | `greedy` `*1000` | Mar/17/2024 22:15 | 
+117 | [A - Era](https://codeforces.com/contest/1604/problem/A) | [C++17 (GCC 7-32)](./codeforces/1604/A.cpp) | `greedy` `*800` | Mar/16/2024 18:33 | 
+116 | [C - Traffic Light](https://codeforces.com/contest/1744/problem/C) | [C++17 (GCC 7-32)](./codeforces/1744/C.cpp) | `binary search` `implementation` `two pointers` `*1000` | Mar/16/2024 13:54 | 
+115 | [A - Forgotten Episode](https://codeforces.com/contest/440/problem/A) | [C++17 (GCC 7-32)](./codeforces/440/A.cpp) | `implementation` `*800` | Mar/16/2024 10:37 | 
+114 | [A - Wet Shark and Odd and Even](https://codeforces.com/contest/621/problem/A) | [C++17 (GCC 7-32)](./codeforces/621/A.cpp) | `implementation` `*900` | Mar/16/2024 10:27 | 
+113 | [C - Word Game](https://codeforces.com/contest/1722/problem/C) | [C++17 (GCC 7-32)](./codeforces/1722/C.cpp) | `data structures` `implementation` `*800` | Mar/16/2024 09:28 | 
+112 | [A - Ebony and Ivory](https://codeforces.com/contest/633/problem/A) | [C++17 (GCC 7-32)](./codeforces/633/A.cpp) | `brute force` `math` `number theory` `*1100` | Mar/16/2024 09:18 | 
+111 | [A - Display The Number](https://codeforces.com/contest/1295/problem/A) | [C++17 (GCC 7-32)](./codeforces/1295/A.cpp) | `greedy` `*900` | Mar/15/2024 12:45 | 
 110 | [C - Less or Equal](https://codeforces.com/contest/977/problem/C) | [GNU C++20 (64)](./codeforces/977/C.cpp) | `sortings` `*1200` | Mar/04/2024 23:30 | 
 109 | [B - Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | [GNU C++20 (64)](./codeforces/1352/B.cpp) | `constructive algorithms` `math` `*1200` | Mar/03/2024 22:05 | 
 108 | [B - Petya and Countryside](https://codeforces.com/contest/66/problem/B) | [GNU C++20 (64)](./codeforces/66/B.cpp) | `brute force` `implementation` `*1100` | Mar/03/2024 17:11 | 
