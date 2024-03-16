@@ -12,7 +12,8 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-114 | [B - Coloring Rectangles](https://codeforces.com/contest/1589/problem/B) | [C++17 (GCC 7-32)](./codeforces/1589/B.cpp) | `greedy` `*1000` | Mar/17/2024 22:15 | 
+115 | [B - Coloring Rectangles](https://codeforces.com/contest/1589/problem/B) | [C++17 (GCC 7-32)](./codeforces/1589/B.cpp) | `greedy` `*1000` | Mar/17/2024 22:15 | 
+114 | [A - Era](https://codeforces.com/contest/1604/problem/A) | [C++17 (GCC 7-32)](./codeforces/1604/A.cpp) | `greedy` `*800` | Mar/16/2024 18:33 | 
 113 | [C - Less or Equal](https://codeforces.com/contest/977/problem/C) | [GNU C++20 (64)](./codeforces/977/C.cpp) | `sortings` `*1200` | Mar/04/2024 23:30 | 
 112 | [B - Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | [GNU C++20 (64)](./codeforces/1352/B.cpp) | `constructive algorithms` `math` `*1200` | Mar/03/2024 22:05 | 
 111 | [B - Petya and Countryside](https://codeforces.com/contest/66/problem/B) | [GNU C++20 (64)](./codeforces/66/B.cpp) | `brute force` `implementation` `*1100` | Mar/03/2024 17:11 | 
