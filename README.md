@@ -12,12 +12,13 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-122 | [C - ABBB](https://codeforces.com/contest/1428/problem/C) | [C++17 (GCC 7-32)](./codeforces/1428/C.cpp) | `brute force` `data structures` `greedy` `strings` `*1100` | Mar/27/2024 23:12 | 
-121 | [C - Most Similar Words](https://codeforces.com/contest/1676/problem/C) | [C++17 (GCC 7-32)](./codeforces/1676/C.cpp) | `brute force` `greedy` `implementation` `implementation` `math` `strings` `*800` | Mar/24/2024 15:46 | 
-120 | [B - Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | [C++17 (GCC 7-32)](./codeforces/1665/B.cpp) | `constructive algorithms` `greedy` `sortings` `*900` | Mar/24/2024 03:00 | 
-119 | [B - Chemistry](https://codeforces.com/contest/1883/problem/B) | [C++17 (GCC 7-32)](./codeforces/1883/B.cpp) | `strings` `*900` | Mar/24/2024 02:09 | 
-118 | [B - Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | [C++17 (GCC 7-32)](./codeforces/1610/B.cpp) | `greedy` `two pointers` `*1100` | Mar/23/2024 16:31 | 
-117 | [A - Spell Check](https://codeforces.com/contest/1722/problem/A) | [C++17 (GCC 7-32)](./codeforces/1722/A.cpp) | `implementation` `*800` | Mar/22/2024 14:22 | 
+123 | [C - ABBB](https://codeforces.com/contest/1428/problem/C) | [C++17 (GCC 7-32)](./codeforces/1428/C.cpp) | `brute force` `data structures` `greedy` `strings` `*1100` | Mar/27/2024 23:12 | 
+122 | [C - Most Similar Words](https://codeforces.com/contest/1676/problem/C) | [C++17 (GCC 7-32)](./codeforces/1676/C.cpp) | `brute force` `greedy` `implementation` `implementation` `math` `strings` `*800` | Mar/24/2024 15:46 | 
+121 | [B - Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | [C++17 (GCC 7-32)](./codeforces/1665/B.cpp) | `constructive algorithms` `greedy` `sortings` `*900` | Mar/24/2024 03:00 | 
+120 | [B - Chemistry](https://codeforces.com/contest/1883/problem/B) | [C++17 (GCC 7-32)](./codeforces/1883/B.cpp) | `strings` `*900` | Mar/24/2024 02:09 | 
+119 | [B - Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | [C++17 (GCC 7-32)](./codeforces/1610/B.cpp) | `greedy` `two pointers` `*1100` | Mar/23/2024 16:31 | 
+118 | [A - Spell Check](https://codeforces.com/contest/1722/problem/A) | [C++17 (GCC 7-32)](./codeforces/1722/A.cpp) | `implementation` `*800` | Mar/22/2024 14:22 | 
+117 | [C - Cypher](https://codeforces.com/contest/1703/problem/C) | [C++17 (GCC 7-32)](./codeforces/1703/C.cpp) | `brute force` `implementation` `strings` `*800` | Mar/22/2024 14:15 | 
 116 | [B - Coloring Rectangles](https://codeforces.com/contest/1589/problem/B) | [C++17 (GCC 7-32)](./codeforces/1589/B.cpp) | `greedy` `*1000` | Mar/17/2024 22:15 | 
 115 | [A - Era](https://codeforces.com/contest/1604/problem/A) | [C++17 (GCC 7-32)](./codeforces/1604/A.cpp) | `greedy` `*800` | Mar/16/2024 18:33 | 
 114 | [C - Traffic Light](https://codeforces.com/contest/1744/problem/C) | [C++17 (GCC 7-32)](./codeforces/1744/C.cpp) | `binary search` `implementation` `two pointers` `*1000` | Mar/16/2024 13:54 | 
