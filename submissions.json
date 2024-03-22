@@ -1964,6 +1964,21 @@
     ],
     "timestamp": "Mar/17/2024 22:15"
   },
+  "CF252698269": {
+    "contest_id": 1722,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1722\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Spell Check",
+    "problem_url": "https://codeforces.com/contest/1722/problem/A",
+    "submission_id": "CF252698269",
+    "submission_url": "https://codeforces.com/contest/1722/submission/252698269",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/22/2024 14:22"
+  },
   "CF252911801": {
     "contest_id": 1610,
     "language": "C++17 (GCC 7-32)",
