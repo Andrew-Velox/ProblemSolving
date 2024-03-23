@@ -1964,6 +1964,21 @@
     ],
     "timestamp": "Mar/17/2024 22:15"
   },
+  "CF252983561": {
+    "contest_id": 1883,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1883\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Chemistry",
+    "problem_url": "https://codeforces.com/contest/1883/problem/B",
+    "submission_id": "CF252983561",
+    "submission_url": "https://codeforces.com/contest/1883/submission/252983561",
+    "tags": [
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Mar/24/2024 02:09"
+  },
   "CF252990387": {
     "contest_id": 1665,
     "language": "C++17 (GCC 7-32)",
