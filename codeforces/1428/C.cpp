@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 #define ll long long
 #define endl "\n"
-#define fx(x) fixed<<setprecision(x)
 using namespace std;
 
 void speed(){

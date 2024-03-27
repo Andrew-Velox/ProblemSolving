@@ -1963,5 +1963,23 @@
       "*1000"
     ],
     "timestamp": "Mar/17/2024 22:15"
+  },
+  "CF253527399": {
+    "contest_id": 1428,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1428\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "ABBB",
+    "problem_url": "https://codeforces.com/contest/1428/problem/C",
+    "submission_id": "CF253527399",
+    "submission_url": "https://codeforces.com/contest/1428/submission/253527399",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Mar/27/2024 23:12"
   }
 }
