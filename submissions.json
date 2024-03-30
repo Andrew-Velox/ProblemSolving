@@ -2191,6 +2191,22 @@
     ],
     "timestamp": "Mar/27/2024 23:12"
   },
+  "CF254225271": {
+    "contest_id": 1722,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1722\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Line",
+    "problem_url": "https://codeforces.com/contest/1722/problem/D",
+    "submission_id": "CF254225271",
+    "submission_url": "https://codeforces.com/contest/1722/submission/254225271",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Mar/31/2024 04:56"
+  },
   "CF254286813": {
     "contest_id": 1790,
     "language": "C++17 (GCC 7-32)",
