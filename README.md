@@ -12,21 +12,22 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-145 | [D - Apple Tree](https://codeforces.com/contest/1843/problem/D) | [C++17 (GCC 7-32)](./codeforces/1843/D.cpp) | `combinatorics` `dfs and similar` `dp` `math` `trees` `*1200` | Apr/06/2024 23:49 | 
-144 | [C - Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | [C++17 (GCC 7-32)](./codeforces/1843/C.cpp) | `bitmasks` `combinatorics` `math` `trees` `*800` | Apr/04/2024 03:49 | 
-143 | [B - Remove Prefix](https://codeforces.com/contest/1714/problem/B) | [C++17 (GCC 7-32)](./codeforces/1714/B.cpp) | `data structures` `greedy` `implementation` `*800` | Apr/04/2024 03:38 | 
-142 | [B - Long Long](https://codeforces.com/contest/1843/problem/B) | [C++17 (GCC 7-32)](./codeforces/1843/B.cpp) | `greedy` `math` `two pointers` `*800` | Apr/04/2024 02:13 | 
-141 | [A - Compare T-Shirt Sizes](https://codeforces.com/contest/1741/problem/A) | [C++17 (GCC 7-32)](./codeforces/1741/A.cpp) | `implementation` `implementation` `strings` `*800` | Apr/04/2024 01:43 | 
-140 | [A - Mainak and Array](https://codeforces.com/contest/1726/problem/A) | [C++17 (GCC 7-32)](./codeforces/1726/A.cpp) | `greedy` `math` `*900` | Apr/03/2024 01:15 | 
-139 | [C - Train and Queries](https://codeforces.com/contest/1702/problem/C) | [C++17 (GCC 7-32)](./codeforces/1702/C.cpp) | `data structures` `greedy` `*1100` | Apr/01/2024 19:39 | 
-138 | [D - Three Activities](https://codeforces.com/contest/1914/problem/D) | [C++17 (GCC 7-32)](./codeforces/1914/D.cpp) | `brute force` `dp` `greedy` `implementation` `sortings` `*1200` | Apr/01/2024 17:02 | 
-137 | [C - Ski Resort](https://codeforces.com/contest/1840/problem/C) | [C++17 (GCC 7-32)](./codeforces/1840/C.cpp) | `combinatorics` `math` `two pointers` `*1000` | Apr/01/2024 01:06 | 
-136 | [C2 - Powering the Hero (hard version)](https://codeforces.com/contest/1800/problem/C2) | [C++17 (GCC 7-32)](./codeforces/1800/C2.cpp) | `data structures` `greedy` `*1100` | Mar/31/2024 20:53 | 
-135 | [C1 - Powering the Hero (easy version)](https://codeforces.com/contest/1800/problem/C1) | [C++17 (GCC 7-32)](./codeforces/1800/C1.cpp) | `data structures` `greedy` `*1000` | Mar/31/2024 20:41 | 
-134 | [D - Matryoshkas](https://codeforces.com/contest/1790/problem/D) | [C++17 (GCC 7-32)](./codeforces/1790/D.cpp) | `data structures` `greedy` `sortings` `*1200` | Mar/31/2024 16:42 | 
-133 | [D - Line](https://codeforces.com/contest/1722/problem/D) | [C++17 (GCC 7-32)](./codeforces/1722/D.cpp) | `greedy` `sortings` `*1100` | Mar/31/2024 04:56 | 
-132 | [C - Premutation](https://codeforces.com/contest/1790/problem/C) | [C++17 (GCC 7-32)](./codeforces/1790/C.cpp) | `brute force` `implementation` `math` `*1000` | Mar/30/2024 20:12 | 
-131 | [D - Double Strings](https://codeforces.com/contest/1703/problem/D) | [C++17 (GCC 7-32)](./codeforces/1703/D.cpp) | `brute force` `data structures` `strings` `*1100` | Mar/30/2024 18:40 | 
+146 | [D - Apple Tree](https://codeforces.com/contest/1843/problem/D) | [C++17 (GCC 7-32)](./codeforces/1843/D.cpp) | `combinatorics` `dfs and similar` `dp` `math` `trees` `*1200` | Apr/06/2024 23:49 | 
+145 | [C - Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | [C++17 (GCC 7-32)](./codeforces/1843/C.cpp) | `bitmasks` `combinatorics` `math` `trees` `*800` | Apr/04/2024 03:49 | 
+144 | [B - Remove Prefix](https://codeforces.com/contest/1714/problem/B) | [C++17 (GCC 7-32)](./codeforces/1714/B.cpp) | `data structures` `greedy` `implementation` `*800` | Apr/04/2024 03:38 | 
+143 | [B - Long Long](https://codeforces.com/contest/1843/problem/B) | [C++17 (GCC 7-32)](./codeforces/1843/B.cpp) | `greedy` `math` `two pointers` `*800` | Apr/04/2024 02:13 | 
+142 | [A - Compare T-Shirt Sizes](https://codeforces.com/contest/1741/problem/A) | [C++17 (GCC 7-32)](./codeforces/1741/A.cpp) | `implementation` `implementation` `strings` `*800` | Apr/04/2024 01:43 | 
+141 | [A - Mainak and Array](https://codeforces.com/contest/1726/problem/A) | [C++17 (GCC 7-32)](./codeforces/1726/A.cpp) | `greedy` `math` `*900` | Apr/03/2024 01:15 | 
+140 | [C - Train and Queries](https://codeforces.com/contest/1702/problem/C) | [C++17 (GCC 7-32)](./codeforces/1702/C.cpp) | `data structures` `greedy` `*1100` | Apr/01/2024 19:39 | 
+139 | [D - Three Activities](https://codeforces.com/contest/1914/problem/D) | [C++17 (GCC 7-32)](./codeforces/1914/D.cpp) | `brute force` `dp` `greedy` `implementation` `sortings` `*1200` | Apr/01/2024 17:02 | 
+138 | [C - Ski Resort](https://codeforces.com/contest/1840/problem/C) | [C++17 (GCC 7-32)](./codeforces/1840/C.cpp) | `combinatorics` `math` `two pointers` `*1000` | Apr/01/2024 01:06 | 
+137 | [C2 - Powering the Hero (hard version)](https://codeforces.com/contest/1800/problem/C2) | [C++17 (GCC 7-32)](./codeforces/1800/C2.cpp) | `data structures` `greedy` `*1100` | Mar/31/2024 20:53 | 
+136 | [C1 - Powering the Hero (easy version)](https://codeforces.com/contest/1800/problem/C1) | [C++17 (GCC 7-32)](./codeforces/1800/C1.cpp) | `data structures` `greedy` `*1000` | Mar/31/2024 20:41 | 
+135 | [D - Matryoshkas](https://codeforces.com/contest/1790/problem/D) | [C++17 (GCC 7-32)](./codeforces/1790/D.cpp) | `data structures` `greedy` `sortings` `*1200` | Mar/31/2024 16:42 | 
+134 | [D - Line](https://codeforces.com/contest/1722/problem/D) | [C++17 (GCC 7-32)](./codeforces/1722/D.cpp) | `greedy` `sortings` `*1100` | Mar/31/2024 04:56 | 
+133 | [C - Premutation](https://codeforces.com/contest/1790/problem/C) | [C++17 (GCC 7-32)](./codeforces/1790/C.cpp) | `brute force` `implementation` `math` `*1000` | Mar/30/2024 20:12 | 
+132 | [D - Double Strings](https://codeforces.com/contest/1703/problem/D) | [C++17 (GCC 7-32)](./codeforces/1703/D.cpp) | `brute force` `data structures` `strings` `*1100` | Mar/30/2024 18:40 | 
+131 | [D - X-Sum](https://codeforces.com/contest/1676/problem/D) | [C++17 (GCC 7-32)](./codeforces/1676/D.cpp) | `brute force` `greedy` `implementation` `*1000` | Mar/30/2024 15:30 | 
 130 | [C - ABBB](https://codeforces.com/contest/1428/problem/C) | [C++17 (GCC 7-32)](./codeforces/1428/C.cpp) | `brute force` `data structures` `greedy` `strings` `*1100` | Mar/27/2024 23:12 | 
 129 | [C - Most Similar Words](https://codeforces.com/contest/1676/problem/C) | [C++17 (GCC 7-32)](./codeforces/1676/C.cpp) | `brute force` `greedy` `implementation` `implementation` `math` `strings` `*800` | Mar/24/2024 15:46 | 
 128 | [B - Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | [C++17 (GCC 7-32)](./codeforces/1665/B.cpp) | `constructive algorithms` `greedy` `sortings` `*900` | Mar/24/2024 03:00 | 
