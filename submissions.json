@@ -2191,6 +2191,22 @@
     ],
     "timestamp": "Mar/27/2024 23:12"
   },
+  "CF254317233": {
+    "contest_id": 1800,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1800\\C2.cpp",
+    "problem_index": "C2",
+    "problem_name": "Powering the Hero (hard version)",
+    "problem_url": "https://codeforces.com/contest/1800/problem/C2",
+    "submission_id": "CF254317233",
+    "submission_url": "https://codeforces.com/contest/1800/submission/254317233",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Mar/31/2024 20:53"
+  },
   "CF254343335": {
     "contest_id": 1840,
     "language": "C++17 (GCC 7-32)",
