@@ -39,13 +39,6 @@ void speed(){
 }
 
 
-int get_size(string s){
-
-    if(s=="M") return 0;
-    if(s[s.size()-1]=='S') return -s.size();
-    if(s[s.size()-1]=='L') return s.size();
-
-}
 
 void solve(){
 
@@ -55,13 +48,32 @@ void solve(){
 
     if(a==b) cout << "=" << endl;
     else{
-        
-        int x= get_size(a);
-        int y= get_size(b);
+        ll len1=a.size();
+        ll len2=b.size();
 
-        cout << (x>y ? ">":"<") << endl;
-
-    }  
+        if(a[a.size()-1] == 'S' && b[b.size()-1] == 'S'){
+            if(a.size()>b.size()) cout << "<" << endl;
+            else cout << ">" << endl;
+        }
+        else if(a[len1-1]=='L' && b[len2-1]=='L'){
+            if(len1>len2) cout << ">" << endl;
+            else cout << "<" << endl;
+        }
+        else if(a[len1-1]=='S' && b[len2-1]=='L'){
+            cout << "<" << endl;
+        }
+        else if(a[len1-1]=='L' && b[len2-1]=='S'){
+            cout << ">" << endl;
+        }
+        else if(a[len1-1]=='M'){
+            if(b[len2-1]=='L') cout << "<" << endl;
+            else if(b[len2-1]=='S') cout << ">" << endl;
+        }
+        else if(b[len2-1]=='M'){
+            if(a[len1-1]=='L') cout << ">" << endl;
+            else if(a[len1-1]=='S') cout << "<" << endl;
+        }
+    }    
 
 }
 
