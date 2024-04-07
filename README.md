@@ -12,14 +12,15 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-157 | [A - Mocha and Math](https://codeforces.com/contest/1559/problem/A) | [C++17 (GCC 7-32)](./codeforces/1559/A.cpp) | `bitmasks` `constructive algorithms` `math` `*900` | Apr/21/2024 03:53 | 
-156 | [A - XORwice](https://codeforces.com/contest/1421/problem/A) | [C++17 (GCC 7-32)](./codeforces/1421/A.cpp) | `bitmasks` `greedy` `math` `*800` | Apr/21/2024 02:30 | 
-155 | [A - Min Or Sum](https://codeforces.com/contest/1635/problem/A) | [C++17 (GCC 7-32)](./codeforces/1635/A.cpp) | `bitmasks` `greedy` `*800` | Apr/19/2024 23:17 | 
-154 | [B - Rock and Lever](https://codeforces.com/contest/1420/problem/B) | [C++17 (GCC 7-32)](./codeforces/1420/B.cpp) | `bitmasks` `math` `*1200` | Apr/18/2024 13:51 | 
-153 | [B - Fedor and New Game](https://codeforces.com/contest/467/problem/B) | [C++17 (GCC 7-32)](./codeforces/467/B.cpp) | `bitmasks` `brute force` `constructive algorithms` `implementation` `*1100` | Apr/18/2024 02:48 | 
-152 | [A - And Then There Were K](https://codeforces.com/contest/1527/problem/A) | [C++17 (GCC 7-32)](./codeforces/1527/A.cpp) | `bitmasks` `*800` | Apr/15/2024 21:20 | 
-151 | [A - We Need the Zero](https://codeforces.com/contest/1805/problem/A) | [C++17 (GCC 7-32)](./codeforces/1805/A.cpp) | `bitmasks` `brute force` `*800` | Apr/15/2024 11:21 | 
-150 | [A - Is It a Cat?](https://codeforces.com/contest/1800/problem/A) | [C++17 (GCC 7-32)](./codeforces/1800/A.cpp) | `implementation` `strings` `*800` | Apr/13/2024 18:22 | 
+158 | [A - Mocha and Math](https://codeforces.com/contest/1559/problem/A) | [C++17 (GCC 7-32)](./codeforces/1559/A.cpp) | `bitmasks` `constructive algorithms` `math` `*900` | Apr/21/2024 03:53 | 
+157 | [A - XORwice](https://codeforces.com/contest/1421/problem/A) | [C++17 (GCC 7-32)](./codeforces/1421/A.cpp) | `bitmasks` `greedy` `math` `*800` | Apr/21/2024 02:30 | 
+156 | [A - Min Or Sum](https://codeforces.com/contest/1635/problem/A) | [C++17 (GCC 7-32)](./codeforces/1635/A.cpp) | `bitmasks` `greedy` `*800` | Apr/19/2024 23:17 | 
+155 | [B - Rock and Lever](https://codeforces.com/contest/1420/problem/B) | [C++17 (GCC 7-32)](./codeforces/1420/B.cpp) | `bitmasks` `math` `*1200` | Apr/18/2024 13:51 | 
+154 | [B - Fedor and New Game](https://codeforces.com/contest/467/problem/B) | [C++17 (GCC 7-32)](./codeforces/467/B.cpp) | `bitmasks` `brute force` `constructive algorithms` `implementation` `*1100` | Apr/18/2024 02:48 | 
+153 | [A - And Then There Were K](https://codeforces.com/contest/1527/problem/A) | [C++17 (GCC 7-32)](./codeforces/1527/A.cpp) | `bitmasks` `*800` | Apr/15/2024 21:20 | 
+152 | [A - We Need the Zero](https://codeforces.com/contest/1805/problem/A) | [C++17 (GCC 7-32)](./codeforces/1805/A.cpp) | `bitmasks` `brute force` `*800` | Apr/15/2024 11:21 | 
+151 | [A - Is It a Cat?](https://codeforces.com/contest/1800/problem/A) | [C++17 (GCC 7-32)](./codeforces/1800/A.cpp) | `implementation` `strings` `*800` | Apr/13/2024 18:22 | 
+150 | [B - Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | [C++17 (GCC 7-32)](./codeforces/1097/B.cpp) | `bitmasks` `brute force` `dp` `*1200` | Apr/07/2024 19:47 | 
 149 | [D - Apple Tree](https://codeforces.com/contest/1843/problem/D) | [C++17 (GCC 7-32)](./codeforces/1843/D.cpp) | `combinatorics` `dfs and similar` `dp` `math` `trees` `*1200` | Apr/06/2024 23:49 | 
 148 | [C - Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | [C++17 (GCC 7-32)](./codeforces/1843/C.cpp) | `bitmasks` `combinatorics` `math` `trees` `*800` | Apr/04/2024 03:49 | 
 147 | [B - Remove Prefix](https://codeforces.com/contest/1714/problem/B) | [C++17 (GCC 7-32)](./codeforces/1714/B.cpp) | `data structures` `greedy` `implementation` `*800` | Apr/04/2024 03:38 | 
