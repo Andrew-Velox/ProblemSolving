@@ -11,12 +11,17 @@ using namespace std;
 #define endl "\n"
 #define fx(x) fixed<<setprecision(x)
 
-#ifdef velox
-#include "debug.h"
+#ifndef ONLINE_JUDGE
+#include "C:\Users\Mohabbat\Desktop\CP\debug.h"
 #else
 #define debug(x...)
 #endif
 
+void error_txt(){
+    #ifndef ONLINE_JUDGE
+    freopen("error.txt","w",stderr);
+    #endif
+}
 void speed(){
     cin.tie(NULL);
     cout.tie(0);
@@ -24,21 +29,24 @@ void speed(){
 }
 
 
+
 void solve(){
     ll len; cin >> len;
     string s; cin >> s;
- 
- 
+
+
     string ss="";
     for(int x=0; x<len; x++) ss+=tolower(s[x]);
- 
+
     unq(ss);
     debug(s,ss);
     
     cout << (ss=="meow" ? "YES":"NO") << endl;
+
 }
 
 int main(){
+    error_txt();
     speed();
     ll t; cin >> t;
     while(t--) solve();
