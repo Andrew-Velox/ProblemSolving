@@ -31,19 +31,48 @@ void solve(){
 
     for(int x=0; x<=len; x++) cin >> v[x];
 
+    vector<ll> fedor_msk;
+
+    for(int x=0; x<n; x++){
+        if((v[len] >> x) & 1){
+            // cout << 1;
+            fedor_msk.push_back(1);
+        }
+        else{
+            // cout << 0;
+            fedor_msk.push_back(0);
+        }
+    }
+    // cout << endl;
+
+    vector<vector<ll>> other_msk;
+    for(int x=0; x<len; x++){
+        vector<ll> msk;
+        for(int y=0; y<n; y++){
+            if((v[x] >> y)&1){
+                msk.push_back(1);
+            }
+            else msk.push_back(0);
+        }
+
+        other_msk.push_back(msk);
+
+    }
+
     ll ans=0;
     for(int x=0; x<len; x++){
         ll cnt=0;
-        for(int y=0; y<n; y++){
-            if(((v[x] >> y)&1) != ((v[len] >> y) & 1)) cnt++;
-        }
 
+        for(int y=0; y<n; y++){
+            if(other_msk[x][y]!=fedor_msk[y]) cnt++;
+        }
         if(cnt<=k) ans++;
     }
 
+
     cout << ans << endl;
 
-    debug(fedor_msk);
+    // for(auto val: fedor_msk) cout << val << " ";
     
 }
 
