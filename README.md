@@ -12,9 +12,10 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-153 | [A - Mocha and Math](https://codeforces.com/contest/1559/problem/A) | [C++17 (GCC 7-32)](./codeforces/1559/A.cpp) | `bitmasks` `constructive algorithms` `math` `*900` | Apr/21/2024 03:53 | 
-152 | [A - XORwice](https://codeforces.com/contest/1421/problem/A) | [C++17 (GCC 7-32)](./codeforces/1421/A.cpp) | `bitmasks` `greedy` `math` `*800` | Apr/21/2024 02:30 | 
-151 | [A - Min Or Sum](https://codeforces.com/contest/1635/problem/A) | [C++17 (GCC 7-32)](./codeforces/1635/A.cpp) | `bitmasks` `greedy` `*800` | Apr/19/2024 23:17 | 
+154 | [A - Mocha and Math](https://codeforces.com/contest/1559/problem/A) | [C++17 (GCC 7-32)](./codeforces/1559/A.cpp) | `bitmasks` `constructive algorithms` `math` `*900` | Apr/21/2024 03:53 | 
+153 | [A - XORwice](https://codeforces.com/contest/1421/problem/A) | [C++17 (GCC 7-32)](./codeforces/1421/A.cpp) | `bitmasks` `greedy` `math` `*800` | Apr/21/2024 02:30 | 
+152 | [A - Min Or Sum](https://codeforces.com/contest/1635/problem/A) | [C++17 (GCC 7-32)](./codeforces/1635/A.cpp) | `bitmasks` `greedy` `*800` | Apr/19/2024 23:17 | 
+151 | [B - Rock and Lever](https://codeforces.com/contest/1420/problem/B) | [C++17 (GCC 7-32)](./codeforces/1420/B.cpp) | `bitmasks` `math` `*1200` | Apr/18/2024 13:51 | 
 150 | [D - Apple Tree](https://codeforces.com/contest/1843/problem/D) | [C++17 (GCC 7-32)](./codeforces/1843/D.cpp) | `combinatorics` `dfs and similar` `dp` `math` `trees` `*1200` | Apr/06/2024 23:49 | 
 149 | [C - Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | [C++17 (GCC 7-32)](./codeforces/1843/C.cpp) | `bitmasks` `combinatorics` `math` `trees` `*800` | Apr/04/2024 03:49 | 
 148 | [B - Remove Prefix](https://codeforces.com/contest/1714/problem/B) | [C++17 (GCC 7-32)](./codeforces/1714/B.cpp) | `data structures` `greedy` `implementation` `*800` | Apr/04/2024 03:38 | 
