@@ -12,11 +12,12 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-163 | [C - Array Elimination](https://codeforces.com/contest/1602/problem/C) | [C++17 (GCC 7-32)](./codeforces/1602/C.cpp) | `bitmasks` `math` `number theory` `*1300` | May/01/2024 14:27 | 
-162 | [B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) | [C++17 (GCC 7-32)](./codeforces/550/B.cpp) | `bitmasks` `brute force` `*1400` | May/01/2024 12:29 | 
-161 | [C - Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | [C++17 (GCC 7-32)](./codeforces/1857/C.cpp) | `greedy` `sortings` `*1200` | Apr/30/2024 18:33 | 
-160 | [B - Array Cancellation](https://codeforces.com/contest/1405/problem/B) | [C++17 (GCC 7-32)](./codeforces/1405/B.cpp) | `constructive algorithms` `implementation` `*1000` | Apr/29/2024 20:23 | 
-159 | [B - BerSU Ball](https://codeforces.com/contest/489/problem/B) | [C++17 (GCC 7-32)](./codeforces/489/B.cpp) | `dfs and similar` `dp` `graph matchings` `greedy` `sortings` `two pointers` `*1200` | Apr/29/2024 14:19 | 
+164 | [C - Array Elimination](https://codeforces.com/contest/1602/problem/C) | [C++17 (GCC 7-32)](./codeforces/1602/C.cpp) | `bitmasks` `math` `number theory` `*1300` | May/01/2024 14:27 | 
+163 | [B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) | [C++17 (GCC 7-32)](./codeforces/550/B.cpp) | `bitmasks` `brute force` `*1400` | May/01/2024 12:29 | 
+162 | [C - Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | [C++17 (GCC 7-32)](./codeforces/1857/C.cpp) | `greedy` `sortings` `*1200` | Apr/30/2024 18:33 | 
+161 | [B - Array Cancellation](https://codeforces.com/contest/1405/problem/B) | [C++17 (GCC 7-32)](./codeforces/1405/B.cpp) | `constructive algorithms` `implementation` `*1000` | Apr/29/2024 20:23 | 
+160 | [B - BerSU Ball](https://codeforces.com/contest/489/problem/B) | [C++17 (GCC 7-32)](./codeforces/489/B.cpp) | `dfs and similar` `dp` `graph matchings` `greedy` `sortings` `two pointers` `*1200` | Apr/29/2024 14:19 | 
+159 | [G1 - Teleporters (Easy Version)](https://codeforces.com/contest/1791/problem/G1) | [C++17 (GCC 7-32)](./codeforces/1791/G1.cpp) | `greedy` `sortings` `*1100` | Apr/28/2024 21:41 | 
 158 | [A - Mocha and Math](https://codeforces.com/contest/1559/problem/A) | [C++17 (GCC 7-32)](./codeforces/1559/A.cpp) | `bitmasks` `constructive algorithms` `math` `*900` | Apr/21/2024 03:53 | 
 157 | [A - XORwice](https://codeforces.com/contest/1421/problem/A) | [C++17 (GCC 7-32)](./codeforces/1421/A.cpp) | `bitmasks` `greedy` `math` `*800` | Apr/21/2024 02:30 | 
 156 | [A - Min Or Sum](https://codeforces.com/contest/1635/problem/A) | [C++17 (GCC 7-32)](./codeforces/1635/A.cpp) | `bitmasks` `greedy` `*800` | Apr/19/2024 23:17 | 
