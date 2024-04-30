@@ -12,8 +12,9 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-160 | [C - Array Elimination](https://codeforces.com/contest/1602/problem/C) | [C++17 (GCC 7-32)](./codeforces/1602/C.cpp) | `bitmasks` `math` `number theory` `*1300` | May/01/2024 14:27 | 
-159 | [B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) | [C++17 (GCC 7-32)](./codeforces/550/B.cpp) | `bitmasks` `brute force` `*1400` | May/01/2024 12:29 | 
+161 | [C - Array Elimination](https://codeforces.com/contest/1602/problem/C) | [C++17 (GCC 7-32)](./codeforces/1602/C.cpp) | `bitmasks` `math` `number theory` `*1300` | May/01/2024 14:27 | 
+160 | [B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) | [C++17 (GCC 7-32)](./codeforces/550/B.cpp) | `bitmasks` `brute force` `*1400` | May/01/2024 12:29 | 
+159 | [C - Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | [C++17 (GCC 7-32)](./codeforces/1857/C.cpp) | `greedy` `sortings` `*1200` | Apr/30/2024 18:33 | 
 158 | [A - Mocha and Math](https://codeforces.com/contest/1559/problem/A) | [C++17 (GCC 7-32)](./codeforces/1559/A.cpp) | `bitmasks` `constructive algorithms` `math` `*900` | Apr/21/2024 03:53 | 
 157 | [A - XORwice](https://codeforces.com/contest/1421/problem/A) | [C++17 (GCC 7-32)](./codeforces/1421/A.cpp) | `bitmasks` `greedy` `math` `*800` | Apr/21/2024 02:30 | 
 156 | [A - Min Or Sum](https://codeforces.com/contest/1635/problem/A) | [C++17 (GCC 7-32)](./codeforces/1635/A.cpp) | `bitmasks` `greedy` `*800` | Apr/19/2024 23:17 | 
