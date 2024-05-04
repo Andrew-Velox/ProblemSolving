@@ -28,10 +28,15 @@ void error_txt(){
 void solve(){
     ll len; cin >> len;
 
-    ll mn=-1,mx=0;
+    ll mn=0,mx=0;
 
     for(int x=0; x<len; x++){
         ll val; cin >> val;
+        if(x==0){
+            mn=val;
+            mx=val;
+            continue;
+        }
         mn&=val;
         mx|=val;
     }
