@@ -12,11 +12,12 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-179 | [D - Wooden Toy Festival](https://codeforces.com/contest/1840/problem/D) | [C++17 (GCC 7-32)](./codeforces/1840/D.cpp) | `binary search` `greedy` `sortings` `*1400` | May/07/2024 20:55 | 
-178 | [C - K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | [C++17 (GCC 7-32)](./codeforces/1352/C.cpp) | `binary search` `math` `*1200` | May/07/2024 16:28 | 
-177 | [D - Permutation Game](https://codeforces.com/contest/1968/problem/D) | [C++17 (GCC 7-32)](./codeforces/1968/D.cpp) | `brute force` `dfs and similar` `games` `graphs` `greedy` `math` | May/06/2024 21:42 | 
-176 | [C - Assembly via Remainders](https://codeforces.com/contest/1968/problem/C) | [C++17 (GCC 7-32)](./codeforces/1968/C.cpp) | `constructive algorithms` `number theory` | May/05/2024 20:46 | 
-175 | [B - Prefiquence](https://codeforces.com/contest/1968/problem/B) | [C++17 (GCC 7-32)](./codeforces/1968/B.cpp) | `greedy` `two pointers` | May/05/2024 20:11 | 
+180 | [D - Wooden Toy Festival](https://codeforces.com/contest/1840/problem/D) | [C++17 (GCC 7-32)](./codeforces/1840/D.cpp) | `binary search` `greedy` `sortings` `*1400` | May/07/2024 20:55 | 
+179 | [C - K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | [C++17 (GCC 7-32)](./codeforces/1352/C.cpp) | `binary search` `math` `*1200` | May/07/2024 16:28 | 
+178 | [D - Permutation Game](https://codeforces.com/contest/1968/problem/D) | [C++17 (GCC 7-32)](./codeforces/1968/D.cpp) | `brute force` `dfs and similar` `games` `graphs` `greedy` `math` | May/06/2024 21:42 | 
+177 | [C - Assembly via Remainders](https://codeforces.com/contest/1968/problem/C) | [C++17 (GCC 7-32)](./codeforces/1968/C.cpp) | `constructive algorithms` `number theory` | May/05/2024 20:46 | 
+176 | [B - Prefiquence](https://codeforces.com/contest/1968/problem/B) | [C++17 (GCC 7-32)](./codeforces/1968/B.cpp) | `greedy` `two pointers` | May/05/2024 20:11 | 
+175 | [B - Roof Construction](https://codeforces.com/contest/1632/problem/B) | [C++17 (GCC 7-32)](./codeforces/1632/B.cpp) | `bitmasks` `constructive algorithms` `*1000` | May/04/2024 20:11 | 
 174 | [C - Array Elimination](https://codeforces.com/contest/1602/problem/C) | [C++17 (GCC 7-32)](./codeforces/1602/C.cpp) | `bitmasks` `math` `number theory` `*1300` | May/01/2024 14:27 | 
 173 | [B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) | [C++17 (GCC 7-32)](./codeforces/550/B.cpp) | `bitmasks` `brute force` `*1400` | May/01/2024 12:29 | 
 172 | [C - Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | [C++17 (GCC 7-32)](./codeforces/1857/C.cpp) | `greedy` `sortings` `*1200` | Apr/30/2024 18:33 | 
