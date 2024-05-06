@@ -2997,6 +2997,25 @@
     ],
     "timestamp": "May/01/2024 14:27"
   },
+  "CF259773560": {
+    "contest_id": 1968,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1968\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Permutation Game",
+    "problem_url": "https://codeforces.com/contest/1968/problem/D",
+    "submission_id": "CF259773560",
+    "submission_url": "https://codeforces.com/contest/1968/submission/259773560",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "games",
+      "graphs",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "May/06/2024 21:42"
+  },
   "CF259859864": {
     "contest_id": 1352,
     "language": "C++17 (GCC 7-32)",
