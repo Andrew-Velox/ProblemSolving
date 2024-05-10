@@ -3214,6 +3214,21 @@
     ],
     "timestamp": "May/07/2024 20:55"
   },
+  "CF260388640": {
+    "contest_id": 1971,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1971\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Clock and Strings",
+    "problem_url": "https://codeforces.com/contest/1971/problem/C",
+    "submission_id": "CF260388640",
+    "submission_url": "https://codeforces.com/contest/1971/submission/260388640",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "May/10/2024 22:05"
+  },
   "CF260451337": {
     "contest_id": 1742,
     "language": "C++17 (GCC 7-32)",
