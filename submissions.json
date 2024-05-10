@@ -3214,6 +3214,23 @@
     ],
     "timestamp": "May/07/2024 20:55"
   },
+  "CF260451337": {
+    "contest_id": 1742,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1742\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Scuza",
+    "problem_url": "https://codeforces.com/contest/1742/problem/E",
+    "submission_id": "CF260451337",
+    "submission_url": "https://codeforces.com/contest/1742/submission/260451337",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/11/2024 01:56"
+  },
   "CF260525561": {
     "contest_id": 1490,
     "language": "C++17 (GCC 7-32)",
