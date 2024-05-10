@@ -3214,6 +3214,22 @@
     ],
     "timestamp": "May/07/2024 20:55"
   },
+  "CF260284099": {
+    "contest_id": 1971,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1971\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Different String",
+    "problem_url": "https://codeforces.com/contest/1971/problem/B",
+    "submission_id": "CF260284099",
+    "submission_url": "https://codeforces.com/contest/1971/submission/260284099",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/10/2024 20:42"
+  },
   "CF260388640": {
     "contest_id": 1971,
     "language": "C++17 (GCC 7-32)",
