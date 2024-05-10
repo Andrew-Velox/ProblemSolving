@@ -3214,6 +3214,22 @@
     ],
     "timestamp": "May/07/2024 20:55"
   },
+  "CF260269354": {
+    "contest_id": 1971,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1971\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "My First Sorting Problem",
+    "problem_url": "https://codeforces.com/contest/1971/problem/A",
+    "submission_id": "CF260269354",
+    "submission_url": "https://codeforces.com/contest/1971/submission/260269354",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/10/2024 20:37"
+  },
   "CF260284099": {
     "contest_id": 1971,
     "language": "C++17 (GCC 7-32)",
