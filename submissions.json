@@ -3214,6 +3214,21 @@
     ],
     "timestamp": "May/07/2024 20:55"
   },
+  "CF260680163": {
+    "contest_id": 1841,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1841\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Keep it Beautiful",
+    "problem_url": "https://codeforces.com/contest/1841/problem/B",
+    "submission_id": "CF260680163",
+    "submission_url": "https://codeforces.com/contest/1841/submission/260680163",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "May/12/2024 20:48"
+  },
   "CF260692446": {
     "contest_id": 1828,
     "language": "C++17 (GCC 7-32)",
