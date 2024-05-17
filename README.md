@@ -12,8 +12,9 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-187 | [A - k-th divisor](https://codeforces.com/contest/762/problem/A) | [C++17 (GCC 7-32)](./codeforces/762/A.cpp) | `math` `number theory` `*1400` | May/19/2024 13:28 | 
-186 | [C - Paprika and Permutation](https://codeforces.com/contest/1617/problem/C) | [C++17 (GCC 7-32)](./codeforces/1617/C.cpp) | `binary search` `greedy` `math` `sortings` `*1300` | May/18/2024 20:11 | 
+188 | [A - k-th divisor](https://codeforces.com/contest/762/problem/A) | [C++17 (GCC 7-32)](./codeforces/762/A.cpp) | `math` `number theory` `*1400` | May/19/2024 13:28 | 
+187 | [C - Paprika and Permutation](https://codeforces.com/contest/1617/problem/C) | [C++17 (GCC 7-32)](./codeforces/1617/C.cpp) | `binary search` `greedy` `math` `sortings` `*1300` | May/18/2024 20:11 | 
+186 | [B - YetnotherrokenKeoard](https://codeforces.com/contest/1907/problem/B) | [C++17 (GCC 7-32)](./codeforces/1907/B.cpp) | `data structures` `implementation` `strings` `*1000` | May/18/2024 03:14 | 
 185 | [D - Wooden Toy Festival](https://codeforces.com/contest/1840/problem/D) | [C++17 (GCC 7-32)](./codeforces/1840/D.cpp) | `binary search` `greedy` `sortings` `*1400` | May/07/2024 20:55 | 
 184 | [C - K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | [C++17 (GCC 7-32)](./codeforces/1352/C.cpp) | `binary search` `math` `*1200` | May/07/2024 16:28 | 
 183 | [D - Permutation Game](https://codeforces.com/contest/1968/problem/D) | [C++17 (GCC 7-32)](./codeforces/1968/D.cpp) | `brute force` `dfs and similar` `games` `graphs` `greedy` `math` | May/06/2024 21:42 | 
