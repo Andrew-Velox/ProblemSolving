@@ -3213,5 +3213,21 @@
       "*1400"
     ],
     "timestamp": "May/07/2024 20:55"
+  },
+  "CF261616113": {
+    "contest_id": 762,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\762\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "k-th divisor",
+    "problem_url": "https://codeforces.com/contest/762/problem/A",
+    "submission_id": "CF261616113",
+    "submission_url": "https://codeforces.com/contest/762/submission/261616113",
+    "tags": [
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "May/19/2024 13:28"
   }
 }
