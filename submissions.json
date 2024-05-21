@@ -3578,6 +3578,22 @@
     ],
     "timestamp": "May/19/2024 13:28"
   },
+  "CF262054525": {
+    "contest_id": 1974,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1974\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Beautiful Triple Pairs",
+    "problem_url": "https://codeforces.com/contest/1974/problem/C",
+    "submission_id": "CF262054525",
+    "submission_url": "https://codeforces.com/contest/1974/submission/262054525",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "*1400"
+    ],
+    "timestamp": "May/21/2024 23:13"
+  },
   "CF262171217": {
     "contest_id": 230,
     "language": "C++17 (GCC 7-32)",
