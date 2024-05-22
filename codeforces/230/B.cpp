@@ -23,31 +23,36 @@ void error_txt(){
     #endif
 }
 
-bool prime(ll n){
-    if(n==1) return false;
-    ll cnt=0;
-    for(ll x=2; x*x<=n; x++){
-        if(n%x==0) return false;
-    }
+
+bool isPrime(ll n) {
+    if (n == 1) return false;
     
+    for(ll i = 2; i*i<=n; i++) {
+        if(n % i == 0) return false;
+    }
     return true;
+}
+
+bool isPerfectSquare(ll n) {
+    ll x = sqrtl(n);
+    return (x*x)==n;
 }
 
 
 void solve(){
-    ll len; cin >> len;
-
-    vector<ll> v(len);
-    for(ll x=0; x<len; x++) cin >> v[x];
-
-    for(ll x=0; x<len; x++){
-        bool get = prime(sqrtl(v[x]));
-        ll third_divisor=sqrtl(v[x]);
-        if(get && third_divisor*third_divisor==v[x]) YES;
-        else NO;
+    ll n;
+    cin >> n;
+    vector<ll> v(n);
+    for(ll x = 0;x < n;x++) cin >> v[x];
+    
+    for(ll x = 0;x < n;x++){
+        
+        if(isPrime(sqrtl(v[x])) && isPerfectSquare(v[x])){
+            cout << "YES" << '\n';
+        }
+        else cout << "NO" << '\n';
     }
-
-
+    
 }
 
 int main(){
