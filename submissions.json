@@ -3578,6 +3578,20 @@
     ],
     "timestamp": "May/19/2024 13:28"
   },
+  "CF262292059": {
+    "contest_id": 1952,
+    "language": "Python 3",
+    "path": "codeforces\\1952\\A.py",
+    "problem_index": "A",
+    "problem_name": "Are You a Robot, Again?",
+    "problem_url": "https://codeforces.com/contest/1952/problem/A",
+    "submission_id": "CF262292059",
+    "submission_url": "https://codeforces.com/contest/1952/submission/262292059",
+    "tags": [
+      "strings"
+    ],
+    "timestamp": "May/23/2024 23:11"
+  },
   "CF262733942": {
     "contest_id": 1977,
     "language": "C++17 (GCC 7-32)",
