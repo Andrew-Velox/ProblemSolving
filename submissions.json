@@ -3578,6 +3578,24 @@
     ],
     "timestamp": "May/19/2024 13:28"
   },
+  "CF263748508": {
+    "contest_id": 230,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\230\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "T-primes",
+    "problem_url": "https://codeforces.com/contest/230/problem/B",
+    "submission_id": "CF263748508",
+    "submission_url": "https://codeforces.com/contest/230/submission/263748508",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Jun/02/2024 18:09"
+  },
   "CF263749098": {
     "contest_id": 1051,
     "language": "C++17 (GCC 7-32)",
