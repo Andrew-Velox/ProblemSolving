@@ -12,15 +12,16 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-216 | [E - String Reversal](https://codeforces.com/contest/1430/problem/E) | [C++17 (GCC 7-32)](./codeforces/1430/E.cpp) | `data structures` `greedy` `strings` `*1900` | Jun/26/2024 13:19 | 
-215 | [B - Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | [C++17 (GCC 7-32)](./codeforces/600/B.cpp) | `binary search` `data structures` `sortings` `two pointers` `*1300` | Jun/26/2024 01:03 | 
-214 | [A - Soccer](https://codeforces.com/contest/1982/problem/A) | [C++17 (GCC 7-32)](./codeforces/1982/A.cpp) | `greedy` `implementation` `math` `sortings` | Jun/25/2024 20:54 | 
-213 | [A - Bachgold Problem](https://codeforces.com/contest/749/problem/A) | [C++17 (GCC 7-32)](./codeforces/749/A.cpp) | `greedy` `implementation` `math` `number theory` `*800` | Jun/16/2024 23:48 | 
-212 | [D - Taxes](https://codeforces.com/contest/735/problem/D) | [C++17 (GCC 7-32)](./codeforces/735/D.cpp) | `math` `number theory` `*1600` | Jun/16/2024 19:28 | 
-211 | [C - Joty and Chocolate](https://codeforces.com/contest/678/problem/C) | [C++17 (GCC 7-32)](./codeforces/678/C.cpp) | `implementation` `math` `number theory` `*1600` | Jun/16/2024 16:54 | 
-210 | [B - Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | [C++17 (GCC 7-32)](./codeforces/1985/B.cpp) | `brute force` `math` `number theory` `*800` | Jun/11/2024 20:50 | 
-209 | [A - Creating Words](https://codeforces.com/contest/1985/problem/A) | [C++17 (GCC 7-32)](./codeforces/1985/A.cpp) | `implementation` `strings` `*800` | Jun/11/2024 20:37 | 
-208 | [D - Divide and Equalize](https://codeforces.com/contest/1881/problem/D) | [C++17 (GCC 7-32)](./codeforces/1881/D.cpp) | `math` `number theory` `*1300` | Jun/07/2024 18:58 | 
+217 | [E - String Reversal](https://codeforces.com/contest/1430/problem/E) | [C++17 (GCC 7-32)](./codeforces/1430/E.cpp) | `data structures` `greedy` `strings` `*1900` | Jun/26/2024 13:19 | 
+216 | [B - Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | [C++17 (GCC 7-32)](./codeforces/600/B.cpp) | `binary search` `data structures` `sortings` `two pointers` `*1300` | Jun/26/2024 01:03 | 
+215 | [A - Soccer](https://codeforces.com/contest/1982/problem/A) | [C++17 (GCC 7-32)](./codeforces/1982/A.cpp) | `greedy` `implementation` `math` `sortings` | Jun/25/2024 20:54 | 
+214 | [A - Bachgold Problem](https://codeforces.com/contest/749/problem/A) | [C++17 (GCC 7-32)](./codeforces/749/A.cpp) | `greedy` `implementation` `math` `number theory` `*800` | Jun/16/2024 23:48 | 
+213 | [D - Taxes](https://codeforces.com/contest/735/problem/D) | [C++17 (GCC 7-32)](./codeforces/735/D.cpp) | `math` `number theory` `*1600` | Jun/16/2024 19:28 | 
+212 | [C - Joty and Chocolate](https://codeforces.com/contest/678/problem/C) | [C++17 (GCC 7-32)](./codeforces/678/C.cpp) | `implementation` `math` `number theory` `*1600` | Jun/16/2024 16:54 | 
+211 | [B - Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | [C++17 (GCC 7-32)](./codeforces/1985/B.cpp) | `brute force` `math` `number theory` `*800` | Jun/11/2024 20:50 | 
+210 | [A - Creating Words](https://codeforces.com/contest/1985/problem/A) | [C++17 (GCC 7-32)](./codeforces/1985/A.cpp) | `implementation` `strings` `*800` | Jun/11/2024 20:37 | 
+209 | [D - Divide and Equalize](https://codeforces.com/contest/1881/problem/D) | [C++17 (GCC 7-32)](./codeforces/1881/D.cpp) | `math` `number theory` `*1300` | Jun/07/2024 18:58 | 
+208 | [A - Guess the Maximum](https://codeforces.com/contest/1979/problem/A) | [C++17 (GCC 7-32)](./codeforces/1979/A.cpp) | `brute force` `greedy` `implementation` `*800` | Jun/06/2024 20:44 | 
 207 | [A - k-th divisor](https://codeforces.com/contest/762/problem/A) | [C++17 (GCC 7-32)](./codeforces/762/A.cpp) | `math` `number theory` `*1400` | May/19/2024 13:28 | 
 206 | [C - Paprika and Permutation](https://codeforces.com/contest/1617/problem/C) | [C++17 (GCC 7-32)](./codeforces/1617/C.cpp) | `binary search` `greedy` `math` `sortings` `*1300` | May/18/2024 20:11 | 
 205 | [B - YetnotherrokenKeoard](https://codeforces.com/contest/1907/problem/B) | [C++17 (GCC 7-32)](./codeforces/1907/B.cpp) | `data structures` `implementation` `strings` `*1000` | May/18/2024 03:14 | 
