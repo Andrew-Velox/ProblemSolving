@@ -3578,6 +3578,23 @@
     ],
     "timestamp": "May/19/2024 13:28"
   },
+  "CF266041229": {
+    "contest_id": 678,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\678\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Joty and Chocolate",
+    "problem_url": "https://codeforces.com/contest/678/problem/C",
+    "submission_id": "CF266041229",
+    "submission_url": "https://codeforces.com/contest/678/submission/266041229",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Jun/16/2024 16:54"
+  },
   "CF266066374": {
     "contest_id": 735,
     "language": "C++17 (GCC 7-32)",
