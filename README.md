@@ -12,11 +12,12 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-233 | [B - High School: Become Human](https://codeforces.com/contest/987/problem/B) | [C++17 (GCC 7-32)](./codeforces/987/B.cpp) | `math` `*1100` | Jun/29/2024 21:07 | 
-232 | [C - Fadi and LCM](https://codeforces.com/contest/1285/problem/C) | [C++17 (GCC 7-32)](./codeforces/1285/C.cpp) | `brute force` `math` `number theory` `*1400` | Jun/29/2024 17:07 | 
-231 | [B - Increase/Decrease/Copy](https://codeforces.com/contest/1976/problem/B) | [C++17 (GCC 7-32)](./codeforces/1976/B.cpp) | `greedy` `implementation` `*1100` | Jun/28/2024 23:06 | 
-230 | [F - Greetings](https://codeforces.com/contest/1915/problem/F) | [C++17 (GCC 7-32)](./codeforces/1915/F.cpp) | `data structures` `divide and conquer` `sortings` `*1500` | Jun/27/2024 11:51 | 
-229 | [H2 - Maximum Crossings (Hard Version)](https://codeforces.com/contest/1676/problem/H2) | [C++17 (GCC 7-32)](./codeforces/1676/H2.cpp) | `data structures` `divide and conquer` `sortings` `*1500` | Jun/26/2024 16:27 | 
+234 | [B - High School: Become Human](https://codeforces.com/contest/987/problem/B) | [C++17 (GCC 7-32)](./codeforces/987/B.cpp) | `math` `*1100` | Jun/29/2024 21:07 | 
+233 | [C - Fadi and LCM](https://codeforces.com/contest/1285/problem/C) | [C++17 (GCC 7-32)](./codeforces/1285/C.cpp) | `brute force` `math` `number theory` `*1400` | Jun/29/2024 17:07 | 
+232 | [B - Increase/Decrease/Copy](https://codeforces.com/contest/1976/problem/B) | [C++17 (GCC 7-32)](./codeforces/1976/B.cpp) | `greedy` `implementation` `*1100` | Jun/28/2024 23:06 | 
+231 | [F - Greetings](https://codeforces.com/contest/1915/problem/F) | [C++17 (GCC 7-32)](./codeforces/1915/F.cpp) | `data structures` `divide and conquer` `sortings` `*1500` | Jun/27/2024 11:51 | 
+230 | [H2 - Maximum Crossings (Hard Version)](https://codeforces.com/contest/1676/problem/H2) | [C++17 (GCC 7-32)](./codeforces/1676/H2.cpp) | `data structures` `divide and conquer` `sortings` `*1500` | Jun/26/2024 16:27 | 
+229 | [H1 - Maximum Crossings (Easy Version)](https://codeforces.com/contest/1676/problem/H1) | [C++17 (GCC 7-32)](./codeforces/1676/H1.cpp) | `brute force` `*1400` | Jun/26/2024 16:24 | 
 228 | [E - String Reversal](https://codeforces.com/contest/1430/problem/E) | [C++17 (GCC 7-32)](./codeforces/1430/E.cpp) | `data structures` `greedy` `strings` `*1900` | Jun/26/2024 13:19 | 
 227 | [B - Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | [C++17 (GCC 7-32)](./codeforces/600/B.cpp) | `binary search` `data structures` `sortings` `two pointers` `*1300` | Jun/26/2024 01:03 | 
 226 | [A - Soccer](https://codeforces.com/contest/1982/problem/A) | [C++17 (GCC 7-32)](./codeforces/1982/A.cpp) | `greedy` `implementation` `math` `sortings` | Jun/25/2024 20:54 | 
