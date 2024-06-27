@@ -3943,6 +3943,23 @@
     ],
     "timestamp": "Jun/26/2024 13:19"
   },
+  "CF267607509": {
+    "contest_id": 1915,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1915\\F.cpp",
+    "problem_index": "F",
+    "problem_name": "Greetings",
+    "problem_url": "https://codeforces.com/contest/1915/problem/F",
+    "submission_id": "CF267607509",
+    "submission_url": "https://codeforces.com/contest/1915/submission/267607509",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Jun/27/2024 11:51"
+  },
   "CF267896291": {
     "contest_id": 1976,
     "language": "C++17 (GCC 7-32)",
