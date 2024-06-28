@@ -12,8 +12,9 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-230 | [B - High School: Become Human](https://codeforces.com/contest/987/problem/B) | [C++17 (GCC 7-32)](./codeforces/987/B.cpp) | `math` `*1100` | Jun/29/2024 21:07 | 
-229 | [C - Fadi and LCM](https://codeforces.com/contest/1285/problem/C) | [C++17 (GCC 7-32)](./codeforces/1285/C.cpp) | `brute force` `math` `number theory` `*1400` | Jun/29/2024 17:07 | 
+231 | [B - High School: Become Human](https://codeforces.com/contest/987/problem/B) | [C++17 (GCC 7-32)](./codeforces/987/B.cpp) | `math` `*1100` | Jun/29/2024 21:07 | 
+230 | [C - Fadi and LCM](https://codeforces.com/contest/1285/problem/C) | [C++17 (GCC 7-32)](./codeforces/1285/C.cpp) | `brute force` `math` `number theory` `*1400` | Jun/29/2024 17:07 | 
+229 | [B - Increase/Decrease/Copy](https://codeforces.com/contest/1976/problem/B) | [C++17 (GCC 7-32)](./codeforces/1976/B.cpp) | `greedy` `implementation` `*1100` | Jun/28/2024 23:06 | 
 228 | [E - String Reversal](https://codeforces.com/contest/1430/problem/E) | [C++17 (GCC 7-32)](./codeforces/1430/E.cpp) | `data structures` `greedy` `strings` `*1900` | Jun/26/2024 13:19 | 
 227 | [B - Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | [C++17 (GCC 7-32)](./codeforces/600/B.cpp) | `binary search` `data structures` `sortings` `two pointers` `*1300` | Jun/26/2024 01:03 | 
 226 | [A - Soccer](https://codeforces.com/contest/1982/problem/A) | [C++17 (GCC 7-32)](./codeforces/1982/A.cpp) | `greedy` `implementation` `math` `sortings` | Jun/25/2024 20:54 | 
