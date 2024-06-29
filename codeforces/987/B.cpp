@@ -47,7 +47,7 @@ void solve(){
 
 int main(){
     // error_txt();
-    ios_base::sync_with_stdio(0); cin.tie(0);
+    ios_base::sync_with_stdio(false); cin.tie(nullptr);
     ll t=1;// cin >> t;
     while(t--) solve();
     return 0;
