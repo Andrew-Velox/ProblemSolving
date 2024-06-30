@@ -12,6 +12,7 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+235 | [A - Upload More RAM](https://codeforces.com/contest/1987/problem/A) | [C++17 (GCC 7-32)](./codeforces/1987/A.cpp) | `greedy` `math` | Jun/30/2024 20:43 | 
 234 | [B - High School: Become Human](https://codeforces.com/contest/987/problem/B) | [C++17 (GCC 7-32)](./codeforces/987/B.cpp) | `math` `*1100` | Jun/29/2024 21:07 | 
 233 | [C - Fadi and LCM](https://codeforces.com/contest/1285/problem/C) | [C++17 (GCC 7-32)](./codeforces/1285/C.cpp) | `brute force` `math` `number theory` `*1400` | Jun/29/2024 17:07 | 
 232 | [B - Increase/Decrease/Copy](https://codeforces.com/contest/1976/problem/B) | [C++17 (GCC 7-32)](./codeforces/1976/B.cpp) | `greedy` `implementation` `*1100` | Jun/28/2024 23:06 | 
